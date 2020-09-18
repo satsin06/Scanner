@@ -1,13 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4df4a72-58c5-4b92-8234-54a3a2745bf6" name="Default Changelist" comment="" />
+    <list default="true" id="d4df4a72-58c5-4b92-8234-54a3a2745bf6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\Apps\scanner\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1hUFMB40kzdzTwi6uSgBBMlTKaz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -16,7 +29,7 @@
   <component name="PropertiesComponent">
     <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../FlutterQRScanner-App-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../duit-stores-app-satyam_sept_2020" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="SvnConfiguration">
@@ -33,26 +46,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="560" y="315" key="FileChooserDialogImpl" timestamp="1600177136564">
+    <state x="560" y="315" key="FileChooserDialogImpl" timestamp="1600185967451">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="560" y="315" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1600177136564" />
-    <state width="914" height="351" key="GridCell.Tab.0.bottom" timestamp="1600179584155">
+    <state x="560" y="315" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1600185967451" />
+    <state width="1340" height="351" key="GridCell.Tab.0.bottom" timestamp="1600185969759">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="914" height="351" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1600179584155" />
-    <state width="914" height="351" key="GridCell.Tab.0.center" timestamp="1600179584155">
+    <state width="1340" height="351" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1600185969759" />
+    <state width="1340" height="351" key="GridCell.Tab.0.center" timestamp="1600185969759">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="914" height="351" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1600179584155" />
-    <state width="914" height="351" key="GridCell.Tab.0.left" timestamp="1600179584155">
+    <state width="1340" height="351" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1600185969759" />
+    <state width="1340" height="351" key="GridCell.Tab.0.left" timestamp="1600185969759">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="914" height="351" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1600179584155" />
-    <state width="914" height="351" key="GridCell.Tab.0.right" timestamp="1600179584155">
+    <state width="1340" height="351" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1600185969759" />
+    <state width="1340" height="351" key="GridCell.Tab.0.right" timestamp="1600185969759">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="914" height="351" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1600179584155" />
+    <state width="1340" height="351" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1600185969759" />
     <state x="176" y="126" width="607" height="804" key="find.popup" timestamp="1600179546165">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
